@@ -27,11 +27,11 @@ Diabetes Pedigree Function
 Age 
 
 ⚙️ Technologies Used
-Python 🐍
-NumPy
-Pandas
-Matplotlib / Seaborn
-Scikit-learn
+    Python 🐍
+    NumPy
+    Pandas
+    Matplotlib / Seaborn
+    Scikit-learn
 
 🧠 Machine Learning Model
 
