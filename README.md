@@ -76,7 +76,7 @@ cd diabetes-prediction
 Step 3: Install dependencies
 pip install -r requirements.txt
 Step 4: Run the notebook
-jupyter notebook
+jupyter notebook 
 
 📈 Model Performance
 
