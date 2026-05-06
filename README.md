@@ -11,7 +11,7 @@ The goal of this project is to:
 
 Build a predictive model for diabetes detection
 Analyze medical data efficiently
-Provide a simple and fast prediction system
+Provide a simple and fast prediction system 
 
 📊 Dataset
 
@@ -24,7 +24,7 @@ Skin Thickness
 Insulin
 BMI (Body Mass Index)
 Diabetes Pedigree Function
-Age
+Age 
 
 ⚙️ Technologies Used
 Python 🐍
@@ -83,7 +83,7 @@ Accuracy: (Add your accuracy here, e.g., 75%–85%)
 Evaluation Metrics:
 Confusion Matrix
 Precision
-Recall
+Recall 
 
 📌 Features
 
