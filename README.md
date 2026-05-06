@@ -79,11 +79,11 @@ Step 4: Run the notebook
 jupyter notebook
 
 📈 Model Performance
-Accuracy: (Add your accuracy here, e.g., 75%–85%)
-Evaluation Metrics:
-Confusion Matrix
-Precision
-Recall 
+
+Accuracy =82.35%
+Precision = 83.33%
+Recall = 71.42%
+F1 Score = 76.92%
 
 📌 Features
 
