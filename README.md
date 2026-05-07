@@ -132,9 +132,8 @@ jupyter notebook
 
 **Samiksha Salunkhe**
 🎓 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast
-
-  -🔗 GitHub: https://github.com/samikshasalunkhe19
-  -💼 LinkedIn:www.linkedin.com/in/samiksha-salunkhe-03b416332
+*🔗 GitHub: https://github.com/samikshasalunkhe19
+*💼 LinkedIn:www.linkedin.com/in/samiksha-salunkhe-03b416332
 
 ---
 
